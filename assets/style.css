@@ -129,6 +129,51 @@
 		border-style: none;
 	}
 
+	.container-end{
+		background-color: rgb(8, 8, 10);
+	}
+	
+	h3{
+		color: rgb(78, 117, 235);
+		font-size: 2rem;
+		position: relative;
+		bottom: 10px;
+	}
+	
+	h4{
+		color: rgb(78, 117, 235);
+		padding-left: 30px;
+		font-size: 1.2rem;
+		
+	}
+	
+	.flex-box4{
+		display: flex;
+		justify-content: space-around;
+	}
+	
+	h5{
+		color: white;
+		padding-left: 30px;
+		padding-top: 20px;
+	}
+	
+	.linea{
+	   color: white;
+		margin-top: 150px;
+		height: 100%;
+		
+	}
+	
+	.bottone2{
+		color: white;
+		background-color: rgb(78, 117, 235);
+		border-color:  rgb(78, 117, 235);
+		border-radius: 2rem;
+		
+	}
+	 
+
    
 
 
