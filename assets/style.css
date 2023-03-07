@@ -1,4 +1,4 @@
-/* settings */
+	/* settings */
 
 	*{
 		margin: 0;
@@ -13,7 +13,7 @@
 		padding: 30px;
    }
 
-/* First block */
+	/* First block */
 
    .big-container{
       background-image:url(../img/jumbo.png);
@@ -89,12 +89,23 @@
 		border-style: none;
   	}
 
-/* Second block */
 
-.wrapper{
-	display: flex;
-	align-items: center;
-}
+	.wrapper{
+		display: flex;
+		align-items: center;
+	}
+
+
+	.bg-grey{
+		background-color: lightgrey;
+   	}
+
+	.text-info{
+		align-items: center;
+		
+	}
+
+   
 
 
 
