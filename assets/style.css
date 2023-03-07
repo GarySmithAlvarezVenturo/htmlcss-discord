@@ -105,6 +105,30 @@
 		
 	}
 
+	.flex-box2{
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+	  }
+	
+	  .flex-box3{
+		display: flex;
+		justify-content: center;
+		
+	}
+	
+	.bottone{
+		margin-top: 40px;
+		padding: 10px;
+		color: white;
+		background-color: rgb(78, 117, 235);
+		border-color:  rgb(78, 117, 235);
+		border-radius: 22px;
+		width: 9.8rem;
+		border-color: white;
+		border-style: none;
+	}
+
    
 
 
